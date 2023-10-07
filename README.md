@@ -13,10 +13,10 @@
 <p align="left">
 </p>
 <h2>Some of My projects</h2>
-<p>Bluefly-clone</p>https://647cc4c365687c4e3c6b2b20--chimerical-madeleine-52c26c.netlify.app/<br>
-<p>Plantorder</p>https://64a946a14dd25f7096c76fa7--adorable-strudel-52d9bd.netlify.app/
-<p>Specialized</p>https://specialized-e-commerce-clone-devwebabhi.vercel.app/
-<p>Weather Aap</p>https://weatherapp-devwebabhi.vercel.app/
+<p>Bluefly The Online Fashion Store</p>https://647cc4c365687c4e3c6b2b20--chimerical-madeleine-52c26c.netlify.app/<br>
+<p>Plantorder The Online Nursery</p>https://64a946a14dd25f7096c76fa7--adorable-strudel-52d9bd.netlify.app/
+<p>Specialized Bicycle E-Store</p>https://specialized-e-commerce-clone-devwebabhi.vercel.app/
+<p>Weather Aap </p>https://weatherapp-devwebabhi.vercel.app/
 <h3 align="left">Languages and Tools:</h3>
 
  <div align="center"><h3 align="center">Frontend</h3>
