@@ -57,7 +57,7 @@
 
 
 <h3 align="left">Description </h3>
-<p>Hey , This is Abhishek Tiwari Full Stack web developer  with the knowledge of frontend and backened . Ready for to get opportunity and alse have enthusiastic to give contribution on projects .  </p>
+<p>Hey , This is Abhishek Tiwari Full Stack web developer  with the knowledge of frontend and backened . Ready to get opportunity.  </p>
 <h2>About Performance on Work</h2>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevWebAbhi&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevWebAbhi&layout=compact"/>
