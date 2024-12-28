@@ -6,7 +6,7 @@
 
 - 👨‍💻 Know more About me [https://devwebabhi.github.io/](https://devwebabhi.github.io/)
 - 💬 Ask me about  *HTML* , *CSS* , *JS* , *React*  , *Chakra-UI* , *MongoDB*, *ExpressJS* , *Node-JS*
-- 📄 My Resume <a href="https://drive.google.com/file/d/1Msy5mYq-Q-cjM-fYc0m18cny6Quzi-Jc/view?usp=sharing">Abhishek Tiwari</a>
+- 📄 My Resume <a href="">Abhishek Tiwari</a>
 - 📄 My Linkedin <a href="https://www.linkedin.com/in/abhishek-tiwari-b4ab78262/">Linkedin Profile</a>
 
 <h3 align="left">Connect with me : <a href="#">tiwariabhishek889912@gmail.com</a></h3>
